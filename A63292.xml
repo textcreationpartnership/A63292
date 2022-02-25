@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true account of the advances of His Majesty's Royal Army towards the taking of Limerick together with His Majesty's most gracious proclamation : in a letter from an officer in the camp before Limerick, dated August 19th, 1690.</title>
+            <author>Officer in the camp before Limerick.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63292</idno>
+            <idno type="STC">Wing T2341B</idno>
+            <idno type="STC">ESTC R3479</idno>
+            <idno type="EEBO-CITATION">11952316</idno>
+            <idno type="OCLC">ocm 11952316</idno>
+            <idno type="VID">51456</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63292)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51456)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 519:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true account of the advances of His Majesty's Royal Army towards the taking of Limerick together with His Majesty's most gracious proclamation : in a letter from an officer in the camp before Limerick, dated August 19th, 1690.</title>
+                  <author>Officer in the camp before Limerick.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"A proclamation, by the King and Queen's Most Excellent Majesties": p. 2.</note>
+                  <note>Broadside.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army.</term>
+               <term>England and Wales. --  Sovereign (1689-1694 : William and Mary)</term>
+               <term>Ireland --  History --  War of 1689-1691.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:51456:1"/>
+            <pb n="1" facs="tcp:51456:1"/>
+            <head>A True ACCOUNT OF THE ADVANCES of His MAjESTY'S Royal ARMY Towards the Taking of Limerick: Together with <hi>His Majeſty's Most Gracious PROCLAMATION.</hi>
+            </head>
+            <head type="sub">In a Letter from an Officer the Camp before <hi>Limerick,</hi> Dated <hi>August</hi> 19th, 1690.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>MY laſt acquainted you of our Progreſs in the Siege till five laſt Night, and that Lieutenant-General <hi>Douglaſs</hi> was to take charge of the <hi>French,</hi> but could not then inform you, what other General-Officers were to joyn him in that Charge, now have learnt, that my Lord <hi>Sidney,</hi> and Brigadier <hi>Stew<g ref="char:EOLhyphen"/>art,</hi> were the Perſons who about ten laſt Night, with ſeven Battalions of Foot relieved the Prince of <hi>Wirtem<g ref="char:EOLhyphen"/>burgh,</hi> it being exceeding dark; and the main Deſign being to gain the Fort, the Enemy have on this ſide the Town, covering the Counterſcarp, (it had not the ſucceſs expected) for the Officers being unacquainted with the Defile, or ways to move in order, and coming late, cannot much be blamed with the miſtake that hap<g ref="char:EOLhyphen"/>pened, as follows:</p>
+            <p>It was agreed to fall on about Twelve, and the ſeveral Parties of ours chancing to miſtake their way, met one another, and apprehending each other for Enemies, fired cruelly on both ſides; but God be praiſed, without much miſchief, which being followed with a great Shout, diſco<g ref="char:EOLhyphen"/>vered the miſtake, and with much a<g ref="char:EOLhyphen"/>do the enraged Souldiers were parted, hardly being perſwaded with the truth by their Officers, and they had hardly got into order, when the Enemy made a furious Sally with the greateſt ſtrength they had in the Garriſon, but were ſtoutly repulſed, and our Men would have purſued the Enemy, but were hindered for fear of Ambuſhes; after which the Men were eager to ſtorm the Fort; but General <hi>Douglaſs,</hi> for ſome Reaſons I know not, would not ſuffer it; from twelve till two of the Clock was inceſſant ſtring; many Officers here ſaying, for the time, they never heard the like; and all this, as I am certainly informed, with the loſs on our ſide, of leſs than twenty Men, not one Officer falling: and one of the Chirurgeons of the Hoſpital af<g ref="char:EOLhyphen"/>firmed to me, this Evening, that there came but three wounded Men into them, ſince the Action happened.</p>
+            <p>
+               <pb n="2" facs="tcp:51456:2"/>
+This Morning our Guns fired bris<g ref="char:EOLhyphen"/>ly to amuſe the Enemy, and every three or four hours gave them four or five Rounds from a Battery of eight Guns, four of twelve Pounders, and four of ſix (and as by this miſ<g ref="char:EOLhyphen"/>chance laſt Night was loſt.) This Morning it was ordered the Tren<g ref="char:EOLhyphen"/>ches ſhould be relieved at four in the Afternoon: Which was accordingly done. Count <hi>Solms</hi> commands in chief, Count <hi>Naſſau,</hi> and Brigadier <hi>Hanmore</hi> aſſiſting, the Officers being commanded to take particular No<g ref="char:EOLhyphen"/>tice of every thing that may direct them to the Fort, as alſo when out of their way; ſo doubt not by the next, to give you a good account of this Action. I never ſaw Men march more freely into their Winter-Quar<g ref="char:EOLhyphen"/>ters, than ours did to the Trenches; whether a great Number of Faggets are carried this Night, as alſo a great many Packs made up for to ſhelter the Men from the Enemy's Shot; a Battery within <hi>Carbine</hi>-ſhot of the Town, was this Night finiſhed, for twelve Guns, ſix of which were thoſe <hi>Sarsfield</hi> thought he had ſpoiled, of eighteen <hi>l.</hi> Ball, and ſix that came from <hi>Carrick</hi> of 24 <hi>l.</hi> all which I hope to hear play to morrow, when our Great Mortars will be up with us, at fartheſt. This Morning two Guns, and a good Party of Horſe, went out on a Deſign, I know not yet: Our Men are couragious and healthy, and I doubt not of a Victory; which GOD grant.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="royal_proclamation">
+                        <head>A PROCLAMATION, By the KING and QUEEN's Moſt Excellent Majeſties.</head>
+                        <opener>
+                           <signed>WILLIAM R.</signed>
+                        </opener>
+                        <p>WHereas We are informed, That divers Perſons, either through Diſaffection to the Clergy of the Church of <hi>Ireland</hi> as by Law Eſtabliſhed, or from a Deſign to take Advantage of the preſent Diſturbances in this Kingdom, do delay or refuſe, to pay their Tythes and other Eccleſiaſtical Duties, to the aforeſaid Clergy, as by Law they ought to do. We having a Gracious Regard to the diſtreſſed Condition of the Church and Clergy, and being ſtedfaſt in Our Reſolution, To preſerve the Benefit of the Law to all Our Subjects, in the Due Execution thereof; Do hereby ſtrictly Command and Require, all Our Loving Subjects, of what Rank or Con<g ref="char:EOLhyphen"/>dition ſoever, That they yield, ſet forth, and pay unto the Archbiſhops, Biſhops, Deans, Archdeacons, Prebends, Rectors, Parſons, Vicars, Curates, and all others that have Eccleſiaſtical Dig<g ref="char:EOLhyphen"/>nities or Cure of Souls; the Tithes and other Eccleſiaſtical Duties, that are or ſhall become due or payable to them reſpectively, according to the Laws and Cuſtoms of this our Realm of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi>
+                        </p>
+                        <closer>
+                           <dateline>Given at Our Royal Camp before <hi>Limerick,</hi> 
+                              <date>this Fifteenth Day of <hi>Au<g ref="char:EOLhyphen"/>gust,</hi> 1690. In the Second Year of Our Reign.</date>
+                           </dateline>
+                           <lb/>
+GOD Save the KING and Q<g ref="char:V">Ʋ</g>EEN.</closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Lond<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n:</hi> Printed for <hi>Richard B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ldwin,</hi> near the <hi>Black B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll</hi> in the <hi>Old-Baily,</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
